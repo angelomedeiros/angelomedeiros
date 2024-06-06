@@ -36,8 +36,13 @@ Desenvolvedor Frontend Especialista com uma vasta experiência em tecnologias mo
 
 Tenho muita flexibilidade e desejo em aprender novas tecnologias. Meu pensamento crítico e ceticismo me fazem buscar constantemente autoconhecimento e evolução.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelomedeiros&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelomedeiros&repo=apostila-git)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/angelomedeiros/apostila-git))
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelomedeiros&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelomedeiros&repo=apostila-git" />
+</a>
+
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomedeiros&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelomedeiros)]
