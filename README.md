@@ -36,11 +36,11 @@ Desenvolvedor Frontend Especialista com uma vasta experiência em tecnologias mo
 
 Tenho muita flexibilidade e desejo em aprender novas tecnologias. Meu pensamento crítico e ceticismo me fazem buscar constantemente autoconhecimento e evolução.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelomedeiros&show_icons=true" />
+<a href="https://github.com/angelomedeiros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelomedeiros&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelomedeiros&repo=apostila-git" />
+<a href="https://github.com/angelomedeiros/apostila-git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelomedeiros&repo=apostila-git&theme=github_dark" />
 </a>
 
 <!---
