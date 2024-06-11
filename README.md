@@ -2,6 +2,8 @@
 
 Desenvolvedor Frontend Especialista com uma vasta experiência em tecnologias modernas e metodologias de desenvolvimento. Tenho expertise em React, Flutter, NodeJS, Git, e CI/CD, sempre buscando otimizar processos e entregar soluções de alta qualidade. Apaixonado por desenvolvimento, estou constantemente explorando novas tecnologias e melhores práticas.
 
+Atualmente, estou mergulhando no campo da inteligência artificial, machine learning e deep learning, utilizando Python, scikit-learn, SciPy, Optuna, pandas, NumPy, entre outras tecnologias. Também sou entusiasta de Rust, explorando bibliotecas como Actix, Rocket e Tokio para construir aplicações eficientes e seguras.
+
 ### Competências Principais
 
 - **Frontend e Mobile**: React, React Native, Flutter
