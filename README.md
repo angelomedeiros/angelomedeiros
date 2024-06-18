@@ -56,4 +56,5 @@ Tenho muita flexibilidade e desejo em aprender novas tecnologias. Meu pensamento
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=angelomedeiros&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://app.rocketseat.com.br/me/angelomedeiros"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=angelomedeiros&type=card" width="280" alt="Angelo Medeiros Nóbrega's Rocket ID"/></a>
